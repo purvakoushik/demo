@@ -6,7 +6,7 @@ updates:
     schedule:
       interval: "weekly"
   - package-ecosystem: "github-actions"
-    directory: "/new-files/my_test.yml"
+    directory: "/new-files"
     schedule:
       interval: "weekly"
   - package-ecosystem: npm
